@@ -4,3 +4,7 @@ wp-config.php
 
 # Ignore the wp-content directory
 /wp-content
+
+# Ignore SSH Keys
+lavtalliortalmor_rsa
+lavtalliortalmor_rsa.pub
