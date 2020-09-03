@@ -2,8 +2,9 @@
 wp-config.php
 .htaccess
 
-# Ignore the wp-content directory
+# Ignore the wp-content directory and vendor
 /wp-content
+/vendor
 
 # Ignore SSH Keys
 lavtalliortalmor_rsa
