@@ -1,0 +1,17 @@
+{
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ],
+    "require": {
+	"wpackagist-plugin/breeze": "*",
+	"wpackagist-plugin/elementor": "*",
+	"wpackagist-plugin/ocean-extra": "*",
+	"wpackagist-plugin/polylang": "*",
+	"wpackagist-plugin/google-site-kit": "*",
+	"wpackagist-plugin/post-smtp": "*",
+        "wpackagist-theme/oceanwp": "*"
+    }
+}
